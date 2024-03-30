@@ -339,4 +339,29 @@ main();
 ?>
 ```
 
+## Online Compilers
+
+These links will take you to the respective online IDEs where you can write, run, and test code in different programming languages.
+
+1. **Repl.it**: [https://replit.com](https://replit.com)
+   - Supports over 50 programming languages.
+
+2. **CodeSandbox**: [https://codesandbox.io](https://codesandbox.io)
+   - Primarily focused on web development.
+
+3. **Rextester**: [https://rextester.com](https://rextester.com)
+   - Supports a wide range of languages.
+
+4. **Ideone**: [https://ideone.com](https://ideone.com)
+   - Supports over 60 programming languages.
+
+5. **Paiza.IO**: [https://paiza.io](https://paiza.io)
+   - Supports various programming languages.
+
+6. **OnlineGDB**: [https://www.onlinegdb.com](https://www.onlinegdb.com)  
+   - Supports C, C++, Java, Python, and more.
+
+7. **JDoodle**: [https://www.jdoodle.com](https://www.jdoodle.com)
+   - Supports various programming languages.
+
 ---
